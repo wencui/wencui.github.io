@@ -5,15 +5,9 @@
 layout: default
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+### Bio.
+I am a fourth-year Ph.D. student under the supervision of [Dr. Lin Cai](https://www.ece.uvic.ca/~cai/) at the University of Victoria.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+### Publication
+* Wen Cui, Chen Liu, Lin Cai, and Jianping Pan, "PhyCode: A Practical Wireless Communication System Exploiting Superimposed Signals," IEEE ICC'19, Shanghai, China, May 2019. [[PDF](pub/PhyCode.pdf)]
+* Wen Cui, Chen Liu, Hamed Mosavat-Jahromi, and Lin Cai, "SigMix: Decoding Superimposed Signals for IoT," IEEE Internet of Things Journal, April 2020. [[PDF]](pub/SigMix.pdf)

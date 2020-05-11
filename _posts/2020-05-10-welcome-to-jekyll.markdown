@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Wen Cui"
 date:   2020-05-10 16:42:04 -0700
 categories: jekyll update
 ---

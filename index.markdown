@@ -4,7 +4,8 @@
 
 layout: default
 ---
-
+# Wen Cui
+<div style="float: right; width:180px"> <img src="imag/wen.jpg" /></div>
 ### Bio.
 I am a fourth-year Ph.D. student under the supervision of [Dr. Lin Cai](https://www.ece.uvic.ca/~cai/) at the University of Victoria.
 

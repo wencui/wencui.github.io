@@ -1,6 +1,7 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: Wen Cui
+position: Ph.D. Candidate
+affiliation: University of Victoria
+email: wencui (at) uvic.ca
+avator: /assets/img/avator.jpg
+google_analytics: Wen Cui
 theme: jekyll-theme-minimal

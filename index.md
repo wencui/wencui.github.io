@@ -7,10 +7,10 @@ layout: default
 I am a fourth-year Ph.D. student under the supervision of
 [Prof. Lin Cai](https://www.ece.uvic.ca/~cai/)
 at the University of Victoria. Before joining UVic,
-I received my master's degree from Northwest University
+I received my master's degree in 2016 from Northwest University
 under the supervision of
 [Prof. Xiaojiang Chen](https://scholar.google.ca/citations?user=Wjbx2YYAAAAJ&hl=en)
-and Prof. Dingyi Fang.
+and Prof. Dingyi Fang. I received my bachelor's degree in 2013 from Xi'an University of Science and Technology.
 
 ## Publication
 

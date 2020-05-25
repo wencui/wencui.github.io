@@ -2,13 +2,13 @@
 layout: default
 ---
 
-# Bio.
+## Bio.
 
 I am a fourth-year Ph.D. student under the supervision of
 [Prof. Lin Cai]("https://www.ece.uvic.ca/~cai/")
 at the University of Victoria. Before joining UVic, I received my master's degree from Northwest University under the supervision of Prof. Xiaojiang Chen and Prof. Dingyi Fang.
 
-# Publication
+## Publication
 
 - [PhyCode: A Practical Wireless Communication System Exploiting Superimposed Signals](assets/pub/PhyCode.pdf)
 <br>

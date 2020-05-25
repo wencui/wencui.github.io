@@ -5,11 +5,11 @@ layout: default
 ## Bio.
 
 I am a fourth-year Ph.D. student under the supervision of
-[Prof. Lin Cai]("https://www.ece.uvic.ca/~cai/")
+[Prof. Lin Cai](https://www.ece.uvic.ca/~cai/)
 at the University of Victoria. Before joining UVic,
 I received my master's degree from Northwest University
 under the supervision of
-[Prof. Xiaojiang Chen]("https://scholar.google.ca/citations?user=Wjbx2YYAAAAJ&hl=en")
+[Prof. Xiaojiang Chen](https://scholar.google.ca/citations?user=Wjbx2YYAAAAJ&hl=en)
 and Prof. Dingyi Fang.
 
 ## Publication

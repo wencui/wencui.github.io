@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## OPEN TO WORK
-I am goign to graduate this year and searching for postdoc positions.
+I am goign to graduate this year and searching for postdoc positions. Welcome to contact me if your are currently hiring or have any recommendations.
 
 ## Bio.
 

@@ -2,9 +2,6 @@
 layout: default
 ---
 
-## OPEN TO WORK
-I am going to graduate this year and searching for postdoc positions. Welcome to contact me if you are currently hiring or have any recommendations.
-
 ## Bio.
 
 I am a fourth-year Ph.D. student under the supervision of
